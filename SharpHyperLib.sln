@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperLib", "HyperLib\HyperLib.csproj", "{EAC6D464-1A70-48F0-90CE-6D588C3B763C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs19
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HyperLib\\HyperLib.csproj
+		SccProjectName1 = HyperLib
+		SccLocalPath1 = HyperLib
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC6D464-1A70-48F0-90CE-6D588C3B763C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC6D464-1A70-48F0-90CE-6D588C3B763C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC6D464-1A70-48F0-90CE-6D588C3B763C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC6D464-1A70-48F0-90CE-6D588C3B763C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
