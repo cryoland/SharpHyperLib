@@ -1,0 +1,16 @@
+ENVI
+description = {
+  ENVI World Elevation MIN/MAX Values [Fri Oct 29 12:29:54 2004]}
+samples = 3600
+lines   = 1800
+bands   = 2
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bil
+sensor type = Unknown
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -180.00000000, 90.00000000, 1.0000000000e-01, 1.0000000000e-01, WGS-84, units=Degrees}
+wavelength units = Unknown
+band names = {
+ Minimum Elevation, Maximum Elevation}
